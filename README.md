@@ -1,5 +1,5 @@
 I have created three datasets using MySQL and exported them into CSV files for further visualization. 
-The tables, named 'doctors_homework1', 'hospital_homework1', and 'specialities', are uploaded to the repository for reference.
+The tables, named 'doctors_homework1', 'hospital_homework1', and 'specialities', and the SQL file, named are uploaded to the repository for reference.
 
 Additionally, I have conducted querying and data visualization for the following five queries:
 
