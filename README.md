@@ -3,7 +3,7 @@ The tables, named 'doctors_homework1', 'hospital_homework1', and 'specialities',
 
 Additionally, I have conducted querying and data visualization for the following five queries:
 
-Q1: What is number of New Patients accepted by Doctors License type?
+Q1: What is number of new patients accepted by doctors license type?
 
 Q2: What is the count of doctors with insurance at each hospital?
 
