@@ -1,0 +1,21 @@
+hospital_id,hospital_name,state,city,doctor,doctor_id
+1,Van Holsen Community Hospital,CA,San Francisco,Flora Martinez,1
+2,Clear Water Services,CA,San Diego,Andy James,2
+3,Imagery Health,CA,Sacramento,Hannah Myers,3
+4,Blue Cross Clinic,CA,Los Angeles,Jane Huang,4
+5,Blue Cross Clinic,CA,Los Angeles,April Adams,5
+6,Imagery Health,CA,Sacramento,Jon Schaffer,6
+7,Van Holsen Community Hospital,CA,Long Beach,Shauna West,7
+8,Blue Cross Clinic,CA,Santa Barbara,Juan Angelo,8
+9,Blue Cross Clinic,CA,San Francisco,Christie Yang,9
+10,Imagery Health,CA,Auburn,Annika Neusler,10
+11,Holistic Health Services,CA,Santa Barbara,Simone Anderson,11
+12,Open Clinic,CA,San Jose,Ted Nyguen,12
+13,Holistic Health Services,CA,Santa Barbara,Valentino Rossi,13
+14,Clark Jamison Hospitals,CA,Fresno,Jessica Armer,14
+15,Open Clinic,CA,Oakland,Sid Michaels,15
+16,Blue Cross Clinic,CA,San Francisco,Yen Waters,16
+17,Open Clinic,CA,San Jose,Ru Izaelia,17
+18,Clear Minds Community,CA,Sacramento,Vishal Rao,18
+19,Clear Minds Community,CA,Sacramento,Lana John,19
+20,Open Clinic,CA,San Jose,Izzie Geralt,20

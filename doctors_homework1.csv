@@ -1,0 +1,21 @@
+doctor_id,name,gender,insurance,new_patients,license,phone
+1,Flora Martinez,Female,Yes,Yes,MD,8495776489
+2,Andy James,Male,Yes,No,PhD,2340894766
+3,Hannah Myers,Female,No,Yes,MD,9907846574
+4,Jane Huang,Female,Yes,Yes,MD,4507856797
+5,April Adams,Female,No,Yes,MFT,4507856797
+6,Jon Schaffer,Male,Yes,No,PhD,9907846574
+7,Shauna West,Female,Yes,Yes,MD,8495776480
+8,Juan Angelo,Male,No,Yes,MD,4507856797
+9,Christie Yang,Female,Yes,Yes,PhD,4507856796
+10,Annika Neusler,Female,Yes,No,MFT,9907846575
+11,Simone Anderson,Female,No,No,MD,8304498765
+12,Ted Nyguen,Male,Yes,Yes,PhD,4301239990
+13,Valentino Rossi,Male,Yes,Yes,MD,8304498765
+14,Jessica Armer,Female,No,Yes,MD,3330456612
+15,Sid Michaels,Female,Yes,Yes,MFT,4301239997
+16,Yen Waters,Male,Yes,Yes,PhD,4507856796
+17,Ru Izaelia,Female,No,Yes,MD,4301239990
+18,Vishal Rao,Male,Yes,Yes,MD,7305557894
+19,Lana John,Female,Yes,Yes,MFT,7305557894
+20,Izzie Geralt,Female,Yes,Yes,MD,4301239990
