@@ -1,4 +1,4 @@
-I have created three datasets using MySQL and exported them into CSV files for further visualization. 
+I have created three datasets using MySQL and exported them as CSV files for further visualization in Google Colab using SQLite and Matplotlib. 
 The tables, named 'doctors_homework1', 'hospital_homework1', and 'specialities', and the SQL file, named 'hospitals doctors and specialities' are uploaded to the repository for reference.
 
 Additionally, I have conducted querying and data visualization for the following five queries:
